@@ -1,0 +1,61 @@
+﻿SIADS 699 - Project Proposal Form
+How to Use this Form:
+1. Create a copy of this document so you can edit it. 
+2. Please fill out the following information below. We will review your responses and assign a mentor for you. You will also be given feedback on your responses to help guide your planning and approach.
+3. Give access to the teaching team and provide a link to the document in Canvas.
+This proposal is graded on your participation by filling in the text box below. You must submit a proposal for credit. Proposals missing substantial information may be returned for improvement at the teaching team's discretion.
+Only one submission per team is required.
+--
+Please create a short name for your project and team (such as "Team Avengers").
+Complainers
+________________
+
+
+What is the subject of your proposal and what questions do you hope to answer or explore? Please introduce your topic in a brief paragraph.
+Analyze and explore consumer complaints related to finance (banking, credit unions, credit cards, etc). The main explorations include changes based on time and geography, and changes in company’s stock.
+________________
+
+
+If applicable, please describe the dataset(s) you plan to use. You'll want to share the source, access method, and what features of the data you plan to explore.
+https://files.consumerfinance.gov/ccdb/complaints.csv.zip
+Data dictionary: https://cfpb.github.io/api/ccdb/fields.html
+The dataset comes from the consumer financial protection bureau. The dataset contains 15 columns with information about company, issue, consumer’s state, and company’s response.
+________________
+
+
+Does your dataset have any usage restrictions? Please check for a license associated with the dataset.
+For example, some datasets prohibit redistribution (sharing copies of the data in a public GitHub repository). Some APIs and websites have restrictions, too.
+There is no restriction.
+________________
+
+
+What is the minimum viable product (MVP) that you will turn in? It could be a particular set of analyses presented and interpreted in a report, a tool (like a dashboard) with a particular set of features, a predictive model or something else.
+The MVP should be deliverable whether or not you "find" something interesting in your data. It does not depend on having exciting results. You will be expected to deliver your MVP at the end of class. Please be as clear as possible.
+Predictive model that predicts how a company would respond based on consumer’s consumer complaint narrative. Temporal and spatial analysis of consumer complaints with interactive visuals.
+________________
+
+
+What ethical challenges or concerns do you expect to encounter in this project? If there are potential concerns, how do you plan to mitigate them?
+The dataset may contain personal identifiable information especially in free text responses. The dataset already redacts identifiable personal information but some may have been missed.
+________________
+
+
+What technical challenges do you anticipate in managing your data and analyses, if any? For example, needing to use large datasets (>1 GB), difficult data cleaning tasks, a complicated machine learning pipeline, need for specialized tools/libraries/hardware.
+How will you evaluate the outcomes / claim success for the project?
+The entire dataset ranges from 2011 to present day with over 10 million rows of data. So, managing to load and run analysis on a large dataset may require alternatives in analysis tools or even alternate computing options. 
+________________
+
+
+This will depend on the type of project you hope to pursue. If you are making a model, what benchmarks will you measure it against? If you are investigating a hypothesis, what analyses and visuals will you need to present to make your case? If you are making a tool, what features must be ready by the end of class?
+Since we are using temporal and spatial dataset, we will attempt to make interactive visuals so time and space are both represented in the same visual.
+________________
+
+
+Briefly explain the planned contributions of each team member. It might help to have "roles", like Project Manager, Lead Developer, Lead Visualizer or, Lead Analyst.
+Your answer here.
+________________
+
+
+Will your project require any cloud computing tools (Google Colab, AWS, GCP)?
+Is there anything the teaching team should know to support you in this project? Feel free to ask for resources or extra advising on a certain topic- it never hurts to ask!
+We may need cloud computing tools. As of now, we plan on running analysis on a small subset (2025-2026) of the dataset and once analysis is done, we will attempt to run on the larger dataset.
