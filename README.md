@@ -1,6 +1,6 @@
-# SIADS 699: Capstone Project for the Master of Applied Data Science degree
+# SIADS 699: Capstone Project for the MADS degree
 
-*Analysing Complaints from the Consumer Financial Protection Bureau**
+*Analysing Complaints from the Consumer Financial Protection Bureau*
 
 - Alex Yoon 
 - Po-Wen "Barry" Lai 
