@@ -6,7 +6,7 @@ import pickle
 @st.cache_resource
 def load_model():
     # Replace with your actual saved model file path
-    with open("/Supervised_Learning/grad_boost_sklearn_model.pkl", "rb") as f:
+    with open("Supervised_Learning/grad_boost_sklearn_model.pkl", "rb") as f:
         return pickle.load(f)
 
 model = load_model()
