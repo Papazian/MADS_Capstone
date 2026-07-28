@@ -1,7 +1,7 @@
 pandas
 numpy
 re
-matplotlib.pyplot
+matplotlib
 pyarrow
 statsmodels
 sklearn
