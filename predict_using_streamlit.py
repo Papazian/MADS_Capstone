@@ -15,7 +15,7 @@ model = load_model()
 # Build the app UI
 st.title("MADS Capstone Project: Predicting that a Consumer Financial Complaint is Closed Respectfully")
 st.write("by Alex Yoon, Po-Wen Lai, Zhou Jiang, & John Papazian")
-st.write("Please provide details about your consumer financial complaint submitted to the CFPB")
+st.write("Please provide details about your consumer financial complaint submitted to the CFPB:")
 
 financial_product_question = st.selectbox(
     label="What type of financial product did you identified in the complaint?",
@@ -202,7 +202,7 @@ if st.button("Score Model"):
     prediction_proba = model.predict_proba(input_data) if hasattr(model, "predict_proba") else None
     
     # Display results
-    st.success(f"Prediction Result: {prediction[1]}")
+    # st.success(f"Prediction Result: {prediction[0]}")
     if prediction_proba is not None:
-        st.write(f"Prediction Probability: {prediction_proba[1].max():.2f}")
+        st.write(f"Prediction Probability: {prediction_proba[0].max():.2f}")
         
