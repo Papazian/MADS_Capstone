@@ -188,8 +188,6 @@ if any(keyword in consumer_complaint_narrative for keyword in credit_damage_keyw
 else:
     credit_damage=0
 
-# example_feature_vector = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36, 1, 0, 1, 0, 0, 0, 1, 0, 0]
-
 feature_vector = [Product_Checking_or_savings_account, Product_Credit_card, Product_Debt_collection, Product_Debt_or_credit_management, Product_Money_transfer_virtual_currency, Product_Mortgage, Product_Payday_loan_title_loan, Product_Prepaid_card, Product_Student_loan, Product_Vehicle_loan_or_lease, Older_American, Servicemember, complaint_word_count, dollar_sign, critical_severity, high_severity, medium_severity, financial_loss, credit_damage, credit_bureau, credit_union, southern_state]
 
 # Process and score the observation
@@ -203,6 +201,7 @@ if st.button("Score Model"):
     
     # Display results
     # st.success(f"Prediction Result: {prediction[0]}")
+    st.success(f"Prediction Result")
     if prediction_proba is not None:
         st.write(f"Prediction Probability: {prediction_proba[0].max():.2f}")
         
