@@ -1,0 +1,34 @@
+# CFPB Credit Reporting Clustering Analysis
+# Developed with Python 3.12.8
+
+# Core Data Science
+pandas==3.0.3
+numpy==2.4.6
+scikit-learn==1.9.0
+scipy==1.18.0
+
+# Clustering
+hdbscan==0.8.44
+umap-learn==0.5.12
+numba==0.66.0
+pynndescent==0.6.0
+
+# NLP and Embeddings
+sentence-transformers==5.6.0
+transformers==5.14.1
+torch==2.13.0
+nltk==3.10.0
+
+# Visualization
+matplotlib==3.11.0
+seaborn==0.13.2
+plotly==6.9.0
+
+# Jupyter
+jupyter==1.1.1
+notebook==7.6.0
+ipykernel==7.3.0
+ipywidgets==8.1.8
+
+# Utilities
+tqdm==4.68.4
