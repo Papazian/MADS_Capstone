@@ -128,7 +128,7 @@ else:
 state_question = st.selectbox(
     label="Which U.S. state or territory is the complaint being filed?",
     options=['AE','AK','AL','AR','AZ','CA','CO','CT','DC','DE','FL','GA','HI','IA','ID','IL','IN','KS','KY','LA','MA','MD','ME','MI','MN','MO','MS','MT','NC','ND','NE','NH','NJ','NV','NY','OH','OK','OR','PA','PR','RI','SC','TN','TX','UT','VA','WA','WI','WV','NM','SD','WY','VI','VT','AA','AP','GU','AS','MP','PW'],
-    index=24
+    index=23
 )
 
 Southern_States = ['AL', 'AR', 'DE', 'FL', 'GA', 'KY', 'LA', 'MD', 'MS', 'NC', 'OK', 'SC', 'TN', 'TX', 'VA', 'WV']
