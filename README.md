@@ -11,7 +11,7 @@
 
 **Predictive Model Implementation:**
 
-Please click on Streamlit web app below to predict the likelihood of a respectful closure of a financial complaint using our Classifier models.
+Please click on Streamlit web app below to predict the likelihood of a respectful closure of your CFPB financial complaint using our Classifier models.
 
 [Streamlit web app](https://mads-capstone-consumer-financial-complaint.streamlit.app/)
 
