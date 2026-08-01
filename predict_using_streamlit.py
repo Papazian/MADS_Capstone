@@ -7,7 +7,7 @@ import sklearn
 @st.cache_resource
 def load_model():
     # Replace with your actual saved model file path
-    with open("grad_boost_sklearn_model.pkl", "rb") as f:
+    with open("Supervised_Learning/grad_boost_sklearn_model.pkl", "rb") as f:
         return pickle.load(f)
 
 model = load_model()
@@ -200,8 +200,8 @@ if st.button("Score Model"):
     prediction_proba = model.predict_proba(input_data) if hasattr(model, "predict_proba") else None
     
     # Display results
-    # st.success(f"Prediction Result: {prediction[0]}")
-    st.success(f"Prediction Result")
+    # st.success(f"Model Prediction Result: {prediction[0]}")
+    st.success(f"Model Prediction Result")
     if prediction_proba is not None:
-        st.write(f"Prediction Probability: {prediction_proba[0].max():.2f}")
+        st.write(f"Likelihood of a respectful closure to the complaint: {prediction_proba[0].max()*100:.1f}%")
         
