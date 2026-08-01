@@ -203,5 +203,5 @@ if st.button("Score Model"):
     # st.success(f"Model Prediction Result: {prediction[0]}")
     st.success(f"Model Prediction Result")
     if prediction_proba is not None:
-        st.write(f"Likelihood of a respectful closure to the complaint: {prediction_proba[0].max()*100:.1f}%")
+        st.write(f"Likelihood of a respectful closure to this complaint: {prediction_proba[0].max()*100:.1f}%")
         
