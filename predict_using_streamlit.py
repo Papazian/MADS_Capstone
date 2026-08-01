@@ -128,15 +128,15 @@ else:
 state_question = st.selectbox(
     label="Which U.S. state or territory is the complaint being filed?",
     options=['AE','AK','AL','AR','AZ','CA','CO','CT','DC','DE','FL','GA','HI','IA','ID','IL','IN','KS','KY','LA','MA','MD','ME','MI','MN','MO','MS','MT','NC','ND','NE','NH','NJ','NV','NY','OH','OK','OR','PA','PR','RI','SC','TN','TX','UT','VA','WA','WI','WV','NM','SD','WY','VI','VT','AA','AP','GU','AS','MP','PW'],
-    index=23
+    index=23  # default to Michigan
 )
 
 Southern_States = ['AL', 'AR', 'DE', 'FL', 'GA', 'KY', 'LA', 'MD', 'MS', 'NC', 'OK', 'SC', 'TN', 'TX', 'VA', 'WV']
 
-if (state_question not in Southern_States):
-    southern_state=0
-else:
+if (state_question in Southern_States):
     southern_state=1
+else:
+    southern_state=0
 
 consumer_complaint_narrative = st.text_area(
     label="Please describe what happened and include all details in your complaint",
@@ -202,7 +202,7 @@ model = st.radio(
 feature_vector = [Product_Checking_or_savings_account, Product_Credit_card, Product_Debt_collection, Product_Debt_or_credit_management, Product_Money_transfer_virtual_currency, Product_Mortgage, Product_Payday_loan_title_loan, Product_Prepaid_card, Product_Student_loan, Product_Vehicle_loan_or_lease, Older_American, Servicemember, complaint_word_count, dollar_sign, critical_severity, high_severity, medium_severity, financial_loss, credit_damage, credit_bureau, credit_union, southern_state]
 
 # Process and score the observation
-if st.button("Score Model"):
+if st.button("Score using Model"):
     
     # Create input DataFrame matching training feature names
     input_data = pd.DataFrame([feature_vector], columns=['Product_Checking_or_savings_account', 'Product_Credit_card', 'Product_Debt_collection', 'Product_Debt_or_credit_management','Product_Money_transfer_virtual_currency_or_money_service', 'Product_Mortgage', 'Product_Payday_loan_title_loan_personal_loan_or_advance_loan','Product_Prepaid_card', 'Product_Student_loan', 'Product_Vehicle_loan_or_lease', 'Older_American', 'Servicemember', 'complaint_word_count', 'dollar_sign', 'critical_severity_keywords','high_severity_keywords', 'medium_severity_keywords', 'financial_loss_keywords', 'credit_damage_keywords', 'credit_bureau', 'credit_union', 'Southern_State'])
