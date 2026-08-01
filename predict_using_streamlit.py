@@ -5,12 +5,15 @@ import sklearn
 
 # Load the trained model
 @st.cache_resource
-def load_model():
+def load_model(pickle_file_location):
     # Replace with your actual saved model file path
-    with open("Supervised_Learning/grad_boost_sklearn_model.pkl", "rb") as f:
+    with open(pickle_file_location, "rb") as f:
         return pickle.load(f)
 
-model = load_model()
+# Load each trained model
+log_reg_sklearn_model = load_model(pickle_file_location="Supervised_Learning/log_reg_sklearn_model.pkl")
+grad_boost_sklearn_model = load_model(pickle_file_location="Supervised_Learning/grad_boost_sklearn_model.pkl")
+rand_forest_sklearn_model = load_model(pickle_file_location="Supervised_Learning/rand_forest_sklearn_model.pkl")
 
 # Build the app UI
 st.title("MADS Capstone Project: Predicting that a Consumer Financial Complaint is Closed Respectfully")
@@ -188,20 +191,42 @@ if any(keyword in consumer_complaint_narrative for keyword in credit_damage_keyw
 else:
     credit_damage=0
 
+model = st.radio(
+    label="Which predictive model to use for scoring?",
+    options=['Logistic Regression', 'Gradient Boosting', 'Random Forest'],
+    index=0
+)
+
 feature_vector = [Product_Checking_or_savings_account, Product_Credit_card, Product_Debt_collection, Product_Debt_or_credit_management, Product_Money_transfer_virtual_currency, Product_Mortgage, Product_Payday_loan_title_loan, Product_Prepaid_card, Product_Student_loan, Product_Vehicle_loan_or_lease, Older_American, Servicemember, complaint_word_count, dollar_sign, critical_severity, high_severity, medium_severity, financial_loss, credit_damage, credit_bureau, credit_union, southern_state]
 
 # Process and score the observation
 if st.button("Score Model"):
+    
     # Create input DataFrame matching training feature names
     input_data = pd.DataFrame([feature_vector], columns=['Product_Checking_or_savings_account', 'Product_Credit_card', 'Product_Debt_collection', 'Product_Debt_or_credit_management','Product_Money_transfer_virtual_currency_or_money_service', 'Product_Mortgage', 'Product_Payday_loan_title_loan_personal_loan_or_advance_loan','Product_Prepaid_card', 'Product_Student_loan', 'Product_Vehicle_loan_or_lease', 'Older_American', 'Servicemember', 'complaint_word_count', 'dollar_sign', 'critical_severity_keywords','high_severity_keywords', 'medium_severity_keywords', 'financial_loss_keywords', 'credit_damage_keywords', 'credit_bureau', 'credit_union', 'Southern_State'])
     
     # Run prediction for scoring
-    prediction = model.predict(input_data)
-    prediction_proba = model.predict_proba(input_data) if hasattr(model, "predict_proba") else None
+    if (model=='Logistic Regression'):
+        prediction = log_reg_sklearn_model.predict(input_data)
+        prediction_proba = log_reg_sklearn_model.predict_proba(input_data) if hasattr(log_reg_sklearn_model, "predict_proba") else None
+    elif (model=='Gradient Boosting'):
+        prediction = grad_boost_sklearn_model.predict(input_data)
+        prediction_proba = grad_boost_sklearn_model.predict_proba(input_data) if hasattr(grad_boost_sklearn_model, "predict_proba") else None
+    elif (model=='Random Forest'):
+        prediction = rand_forest_sklearn_model.predict(input_data)
+        prediction_proba = rand_forest_sklearn_model.predict_proba(input_data) if hasattr(rand_forest_sklearn_model, "predict_proba") else None
+    else: 
+        prediction = None
+        prediction_proba = None
     
     # Display results
-    # st.success(f"Model Prediction Result: {prediction[0]}")
-    st.success(f"Model Prediction Result")
+    if (model=='Logistic Regression'):
+        st.success(f"Logistic Regression Model Prediction Result")
+    elif (model=='Gradient Boosting'):
+        st.success(f"Gradient Boosting Model Prediction Result")
+    elif (model=='Random Forest'):
+        st.success(f"Random Forest Model Prediction Result")
+    else: 
+        st.success(f"No Model Prediction Result")
     if prediction_proba is not None:
         st.write(f"Likelihood of a respectful closure to this complaint: {prediction_proba[0].max()*100:.1f}%")
-        
