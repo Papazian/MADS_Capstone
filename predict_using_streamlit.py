@@ -11,9 +11,9 @@ def load_model(pickle_file_location):
         return pickle.load(f)
 
 # Load each trained model
-log_reg_sklearn_model = load_model("Supervised_Learning/log_reg_sklearn_model.pkl")
+logistic_reg_sklearn_model = load_model("Supervised_Learning/logistic_reg_sklearn_model.pkl")
 grad_boost_sklearn_model = load_model("Supervised_Learning/grad_boost_sklearn_model.pkl")
-rand_forest_sklearn_model = load_model("Supervised_Learning/rand_forest_sklearn_model.pkl")
+random_forest_sklearn_model = load_model("Supervised_Learning/random_forest_sklearn_model.pkl")
 
 # Build the app UI
 st.title("MADS Capstone Project: Predicting that a Consumer Financial Complaint is Closed Respectfully")
@@ -207,14 +207,14 @@ if st.button("Score Model"):
     
     # Run prediction for scoring
     if (model=='Logistic Regression'):
-        prediction = log_reg_sklearn_model.predict(input_data)
-        prediction_proba = log_reg_sklearn_model.predict_proba(input_data) if hasattr(log_reg_sklearn_model, "predict_proba") else None
+        prediction = logistic_reg_sklearn_model.predict(input_data)
+        prediction_proba = logistic_reg_sklearn_model.predict_proba(input_data) if hasattr(logistic_reg_sklearn_model, "predict_proba") else None
     elif (model=='Gradient Boosting'):
         prediction = grad_boost_sklearn_model.predict(input_data)
         prediction_proba = grad_boost_sklearn_model.predict_proba(input_data) if hasattr(grad_boost_sklearn_model, "predict_proba") else None
     elif (model=='Random Forest'):
-        prediction = rand_forest_sklearn_model.predict(input_data)
-        prediction_proba = rand_forest_sklearn_model.predict_proba(input_data) if hasattr(rand_forest_sklearn_model, "predict_proba") else None
+        prediction = random_forest_sklearn_model.predict(input_data)
+        prediction_proba = random_forest_sklearn_model.predict_proba(input_data) if hasattr(random_forest_sklearn_model, "predict_proba") else None
     else: 
         prediction = None
         prediction_proba = None
