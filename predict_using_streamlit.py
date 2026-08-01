@@ -11,9 +11,9 @@ def load_model(pickle_file_location):
         return pickle.load(f)
 
 # Load each trained model
-log_reg_sklearn_model = load_model(pickle_file_location="Supervised_Learning/log_reg_sklearn_model.pkl")
-grad_boost_sklearn_model = load_model(pickle_file_location="Supervised_Learning/grad_boost_sklearn_model.pkl")
-rand_forest_sklearn_model = load_model(pickle_file_location="Supervised_Learning/rand_forest_sklearn_model.pkl")
+log_reg_sklearn_model = load_model("Supervised_Learning/log_reg_sklearn_model.pkl")
+grad_boost_sklearn_model = load_model("Supervised_Learning/grad_boost_sklearn_model.pkl")
+rand_forest_sklearn_model = load_model("Supervised_Learning/rand_forest_sklearn_model.pkl")
 
 # Build the app UI
 st.title("MADS Capstone Project: Predicting that a Consumer Financial Complaint is Closed Respectfully")
