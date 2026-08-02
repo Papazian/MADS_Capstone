@@ -1,0 +1,1436 @@
+Issue,Keyword,Frequency
+Advertising,vanilla,9
+Advertising,masked_text,8
+Advertising,website,7
+Advertising,gift,6
+Advertising,online,3
+Advertising,store,3
+Advertising,money,3
+Advertising,applicable,2
+Advertising,easy,2
+Advertising,person,2
+Advertising,message,2
+Advertising,internet,2
+Advertising,personal,2
+Advertising,advertising,2
+Advertising,order,1
+Advertising,thing,1
+Advertising,search,1
+Advertising,giftcard,1
+Advertising,purchase,1
+Advertising,fee,1
+"Advertising and marketing, including promotional offers",masked_text,73
+"Advertising and marketing, including promotional offers",chase,28
+"Advertising and marketing, including promotional offers",promotional,25
+"Advertising and marketing, including promotional offers",offer,22
+"Advertising and marketing, including promotional offers",balance,20
+"Advertising and marketing, including promotional offers",payment,19
+"Advertising and marketing, including promotional offers",interest,18
+"Advertising and marketing, including promotional offers",promotion,16
+"Advertising and marketing, including promotional offers",month,15
+"Advertising and marketing, including promotional offers",response,13
+"Advertising and marketing, including promotional offers",purchase,13
+"Advertising and marketing, including promotional offers",complaint,12
+"Advertising and marketing, including promotional offers",statement,11
+"Advertising and marketing, including promotional offers",bonus,10
+"Advertising and marketing, including promotional offers",issue,10
+"Advertising and marketing, including promotional offers",transaction,10
+"Advertising and marketing, including promotional offers",period,9
+"Advertising and marketing, including promotional offers",charge,9
+"Advertising and marketing, including promotional offers",year,9
+"Advertising and marketing, including promotional offers",additional,8
+Applying for a mortgage or refinancing an existing mortgage,masked_text,16
+Applying for a mortgage or refinancing an existing mortgage,information,10
+Applying for a mortgage or refinancing an existing mortgage,application,9
+Applying for a mortgage or refinancing an existing mortgage,figure,8
+Applying for a mortgage or refinancing an existing mortgage,agent,7
+Applying for a mortgage or refinancing an existing mortgage,chase,7
+Applying for a mortgage or refinancing an existing mortgage,day,6
+Applying for a mortgage or refinancing an existing mortgage,notary,6
+Applying for a mortgage or refinancing an existing mortgage,property,5
+Applying for a mortgage or refinancing an existing mortgage,process,5
+Applying for a mortgage or refinancing an existing mortgage,home,5
+Applying for a mortgage or refinancing an existing mortgage,deadline,5
+Applying for a mortgage or refinancing an existing mortgage,pmi,5
+Applying for a mortgage or refinancing an existing mortgage,appraisal,5
+Applying for a mortgage or refinancing an existing mortgage,phone,4
+Applying for a mortgage or refinancing an existing mortgage,financial,4
+Applying for a mortgage or refinancing an existing mortgage,complaint,4
+Applying for a mortgage or refinancing an existing mortgage,treatment,4
+Applying for a mortgage or refinancing an existing mortgage,lending,4
+Applying for a mortgage or refinancing an existing mortgage,service,4
+Attempts to collect debt not owed,masked_text,706
+Attempts to collect debt not owed,debt,694
+Attempts to collect debt not owed,report,440
+Attempts to collect debt not owed,collection,366
+Attempts to collect debt not owed,reporting,236
+Attempts to collect debt not owed,information,228
+Attempts to collect debt not owed,fair,210
+Attempts to collect debt not owed,fcra,172
+Attempts to collect debt not owed,validation,162
+Attempts to collect debt not owed,act,151
+Attempts to collect debt not owed,violation,136
+Attempts to collect debt not owed,right,131
+Attempts to collect debt not owed,fdcpa,126
+Attempts to collect debt not owed,agency,123
+Attempts to collect debt not owed,fraudulent,122
+Attempts to collect debt not owed,original,121
+Attempts to collect debt not owed,balance,115
+Attempts to collect debt not owed,dispute,113
+Attempts to collect debt not owed,matter,110
+Attempts to collect debt not owed,documentation,110
+Can't stop withdrawals from your bank account,lending,8
+Can't stop withdrawals from your bank account,fund,6
+Can't stop withdrawals from your bank account,masked_text,6
+Can't stop withdrawals from your bank account,solo,5
+Can't stop withdrawals from your bank account,practice,5
+Can't stop withdrawals from your bank account,money,4
+Can't stop withdrawals from your bank account,payday,4
+Can't stop withdrawals from your bank account,unauthorized,4
+Can't stop withdrawals from your bank account,state,4
+Can't stop withdrawals from your bank account,peer,4
+Can't stop withdrawals from your bank account,payment,3
+Can't stop withdrawals from your bank account,illegal,3
+Can't stop withdrawals from your bank account,autopay,3
+Can't stop withdrawals from your bank account,attempt,3
+Can't stop withdrawals from your bank account,law,3
+Can't stop withdrawals from your bank account,people,2
+Can't stop withdrawals from your bank account,confirmation,2
+Can't stop withdrawals from your bank account,upstart,2
+Can't stop withdrawals from your bank account,debit,2
+Can't stop withdrawals from your bank account,cfpb,2
+Charged fees or interest you didn't expect,masked_text,61
+Charged fees or interest you didn't expect,interest,40
+Charged fees or interest you didn't expect,payment,39
+Charged fees or interest you didn't expect,rate,17
+Charged fees or interest you didn't expect,state,15
+Charged fees or interest you didn't expect,law,15
+Charged fees or interest you didn't expect,balance,13
+Charged fees or interest you didn't expect,agreement,13
+Charged fees or interest you didn't expect,principal,13
+Charged fees or interest you didn't expect,day,12
+Charged fees or interest you didn't expect,complaint,12
+Charged fees or interest you didn't expect,fee,11
+Charged fees or interest you didn't expect,term,10
+Charged fees or interest you didn't expect,month,9
+Charged fees or interest you didn't expect,predatory,9
+Charged fees or interest you didn't expect,contract,9
+Charged fees or interest you didn't expect,total,9
+Charged fees or interest you didn't expect,high,8
+Charged fees or interest you didn't expect,financial,7
+Charged fees or interest you didn't expect,cost,7
+Charged upfront or unexpected fees,masked_text,8
+Charged upfront or unexpected fees,report,5
+Charged upfront or unexpected fees,refund,5
+Charged upfront or unexpected fees,collection,4
+Charged upfront or unexpected fees,day,4
+Charged upfront or unexpected fees,agency,3
+Charged upfront or unexpected fees,policy,3
+Charged upfront or unexpected fees,point,2
+Charged upfront or unexpected fees,alot,2
+Charged upfront or unexpected fees,staff,2
+Charged upfront or unexpected fees,people,2
+Charged upfront or unexpected fees,money,2
+Charged upfront or unexpected fees,masked_text]/[masked_text]/year>2025,1
+Charged upfront or unexpected fees,number,1
+Charged upfront or unexpected fees,name,1
+Charged upfront or unexpected fees,phone,1
+Charged upfront or unexpected fees,person,1
+Charged upfront or unexpected fees,personal,1
+Charged upfront or unexpected fees,information,1
+Charged upfront or unexpected fees,score,1
+Closing an account,masked_text,201
+Closing an account,fund,83
+Closing an account,check,79
+Closing an account,money,71
+Closing an account,day,39
+Closing an account,number,34
+Closing an account,issue,31
+Closing an account,balance,25
+Closing an account,chase,24
+Closing an account,customer,23
+Closing an account,citibank,23
+Closing an account,branch,23
+Closing an account,business,22
+Closing an account,financial,22
+Closing an account,month,21
+Closing an account,information,21
+Closing an account,address,21
+Closing an account,unable,19
+Closing an account,transaction,19
+Closing an account,reason,19
+Closing on a mortgage,document,16
+Closing on a mortgage,mortgage,13
+Closing on a mortgage,masked_text,12
+Closing on a mortgage,complaint,8
+Closing on a mortgage,lender,7
+Closing on a mortgage,payment,6
+Closing on a mortgage,process,6
+Closing on a mortgage,property,5
+Closing on a mortgage,term,5
+Closing on a mortgage,date,5
+Closing on a mortgage,copy,5
+Closing on a mortgage,request,5
+Closing on a mortgage,file,5
+Closing on a mortgage,monthly,4
+Closing on a mortgage,draw,4
+Closing on a mortgage,closing,4
+Closing on a mortgage,documentation,4
+Closing on a mortgage,matter,4
+Closing on a mortgage,signature,4
+Closing on a mortgage,agreement,4
+Closing your account,masked_text,50
+Closing your account,payment,30
+Closing your account,balance,21
+Closing your account,closure,19
+Closing your account,report,19
+Closing your account,day,14
+Closing your account,explanation,14
+Closing your account,capital,13
+Closing your account,reason,13
+Closing your account,debt,12
+Closing your account,pra,12
+Closing your account,financial,11
+Closing your account,america,11
+Closing your account,activity,11
+Closing your account,action,10
+Closing your account,notice,10
+Closing your account,complaint,9
+Closing your account,reporting,9
+Closing your account,bureau,8
+Closing your account,issue,8
+Communication tactics,debt,82
+Communication tactics,masked_text,58
+Communication tactics,number,37
+Communication tactics,phone,33
+Communication tactics,collection,30
+Communication tactics,day,20
+Communication tactics,fdcpa,20
+Communication tactics,communication,18
+Communication tactics,collector,18
+Communication tactics,law,17
+Communication tactics,practice,16
+Communication tactics,violation,14
+Communication tactics,validation,14
+Communication tactics,llc,13
+Communication tactics,legal,13
+Communication tactics,complaint,13
+Communication tactics,multiple,13
+Communication tactics,representative,12
+Communication tactics,action,12
+Communication tactics,attempt,11
+Confusing or misleading advertising or marketing,masked_text,27
+Confusing or misleading advertising or marketing,payment,9
+Confusing or misleading advertising or marketing,number,7
+Confusing or misleading advertising or marketing,money,6
+Confusing or misleading advertising or marketing,zelle,6
+Confusing or misleading advertising or marketing,debt,4
+Confusing or misleading advertising or marketing,service,4
+Confusing or misleading advertising or marketing,year,4
+Confusing or misleading advertising or marketing,information,3
+Confusing or misleading advertising or marketing,day,3
+Confusing or misleading advertising or marketing,communication,3
+Confusing or misleading advertising or marketing,report,3
+Confusing or misleading advertising or marketing,month,3
+Confusing or misleading advertising or marketing,jefferson,2
+Confusing or misleading advertising or marketing,capital,2
+Confusing or misleading advertising or marketing,validation,2
+Confusing or misleading advertising or marketing,balance,2
+Confusing or misleading advertising or marketing,fair,2
+Confusing or misleading advertising or marketing,collection,2
+Confusing or misleading advertising or marketing,open,2
+Confusing or missing disclosures,masked_text,19
+Confusing or missing disclosures,term,9
+Confusing or missing disclosures,debt,9
+Confusing or missing disclosures,cash,7
+Confusing or missing disclosures,app,7
+Confusing or missing disclosures,money,7
+Confusing or missing disclosures,dispute,7
+Confusing or missing disclosures,customer,6
+Confusing or missing disclosures,service,6
+Confusing or missing disclosures,issue,5
+Confusing or missing disclosures,home,5
+Confusing or missing disclosures,cost,5
+Confusing or missing disclosures,lease,5
+Confusing or missing disclosures,merchant,5
+Confusing or missing disclosures,klarna,5
+Confusing or missing disclosures,sunnova,4
+Confusing or missing disclosures,agreement,4
+Confusing or missing disclosures,financial,4
+Confusing or missing disclosures,person,4
+Confusing or missing disclosures,refund,4
+Credit monitoring or identity theft protection services,masked_text,35
+Credit monitoring or identity theft protection services,report,23
+Credit monitoring or identity theft protection services,identity,10
+Credit monitoring or identity theft protection services,information,10
+Credit monitoring or identity theft protection services,payment,9
+Credit monitoring or identity theft protection services,inquiry,8
+Credit monitoring or identity theft protection services,score,8
+Credit monitoring or identity theft protection services,servicer,8
+Credit monitoring or identity theft protection services,theft,7
+Credit monitoring or identity theft protection services,experian,6
+Credit monitoring or identity theft protection services,breach,6
+Credit monitoring or identity theft protection services,fraud,6
+Credit monitoring or identity theft protection services,new,6
+Credit monitoring or identity theft protection services,hard,5
+Credit monitoring or identity theft protection services,datum,5
+Credit monitoring or identity theft protection services,fraudulent,5
+Credit monitoring or identity theft protection services,bureaus,5
+Credit monitoring or identity theft protection services,number,5
+Credit monitoring or identity theft protection services,debt,4
+Credit monitoring or identity theft protection services,inaccurate,4
+Dealing with your lender or servicer,masked_text,156
+Dealing with your lender or servicer,payment,104
+Dealing with your lender or servicer,student,64
+Dealing with your lender or servicer,mohela,45
+Dealing with your lender or servicer,information,44
+Dealing with your lender or servicer,federal,36
+Dealing with your lender or servicer,interest,34
+Dealing with your lender or servicer,forbearance,33
+Dealing with your lender or servicer,repayment,29
+Dealing with your lender or servicer,balance,28
+Dealing with your lender or servicer,month,28
+Dealing with your lender or servicer,financial,28
+Dealing with your lender or servicer,borrower,28
+Dealing with your lender or servicer,year,26
+Dealing with your lender or servicer,department,24
+Dealing with your lender or servicer,day,23
+Dealing with your lender or servicer,nelnet,23
+Dealing with your lender or servicer,issue,21
+Dealing with your lender or servicer,plan,21
+Dealing with your lender or servicer,education,21
+Didn't provide services promised,masked_text,26
+Didn't provide services promised,debt,16
+Didn't provide services promised,payment,8
+Didn't provide services promised,relief,6
+Didn't provide services promised,collection,6
+Didn't provide services promised,citizen,5
+Didn't provide services promised,month,5
+Didn't provide services promised,complaint,4
+Didn't provide services promised,dispute,4
+Didn't provide services promised,outstanding,4
+Didn't provide services promised,reporting,3
+Didn't provide services promised,judgement,3
+Didn't provide services promised,report,3
+Didn't provide services promised,contact,2
+Didn't provide services promised,agency,2
+Didn't provide services promised,status,2
+Didn't provide services promised,correspondence,2
+Didn't provide services promised,monthly,2
+Didn't provide services promised,hold,2
+Didn't provide services promised,judgment,2
+Electronic communications,debt,23
+Electronic communications,masked_text,14
+Electronic communications,report,7
+Electronic communications,collection,6
+Electronic communications,communication,6
+Electronic communications,information,5
+Electronic communications,payment,5
+Electronic communications,multiple,5
+Electronic communications,address,4
+Electronic communications,text,4
+Electronic communications,year,4
+Electronic communications,trueaccord,4
+Electronic communications,medical,4
+Electronic communications,creditor,3
+Electronic communications,personal,3
+Electronic communications,identity,3
+Electronic communications,message,3
+Electronic communications,able,3
+Electronic communications,agency,3
+Electronic communications,order,3
+False statements or representation,debt,471
+False statements or representation,masked_text,312
+False statements or representation,collection,182
+False statements or representation,information,165
+False statements or representation,original,134
+False statements or representation,validation,129
+False statements or representation,reporting,112
+False statements or representation,report,105
+False statements or representation,creditor,100
+False statements or representation,fair,98
+False statements or representation,fdcpa,91
+False statements or representation,documentation,89
+False statements or representation,request,78
+False statements or representation,fcra,75
+False statements or representation,proof,74
+False statements or representation,agency,74
+False statements or representation,right,70
+False statements or representation,payment,68
+False statements or representation,dispute,66
+False statements or representation,practice,66
+Fees or interest,fee,113
+Fees or interest,masked_text,111
+Fees or interest,payment,107
+Fees or interest,interest,88
+Fees or interest,balance,79
+Fees or interest,late,52
+Fees or interest,statement,47
+Fees or interest,charge,47
+Fees or interest,issue,25
+Fees or interest,promotional,24
+Fees or interest,month,23
+Fees or interest,purchase,22
+Fees or interest,customer,21
+Fees or interest,day,18
+Fees or interest,transaction,16
+Fees or interest,annual,16
+Fees or interest,service,15
+Fees or interest,date,14
+Fees or interest,number,14
+Fees or interest,good,14
+Fraud or scam,masked_text,147
+Fraud or scam,transaction,58
+Fraud or scam,app,55
+Fraud or scam,cash,51
+Fraud or scam,money,47
+Fraud or scam,fund,35
+Fraud or scam,fraud,29
+Fraud or scam,issue,28
+Fraud or scam,zelle,28
+Fraud or scam,payment,27
+Fraud or scam,information,25
+Fraud or scam,cfpb,24
+Fraud or scam,dispute,24
+Fraud or scam,transfer,23
+Fraud or scam,number,23
+Fraud or scam,phone,21
+Fraud or scam,service,20
+Fraud or scam,claim,20
+Fraud or scam,refund,19
+Fraud or scam,wells,18
+Getting a credit card,masked_text,65
+Getting a credit card,information,34
+Getting a credit card,reporting,27
+Getting a credit card,report,27
+Getting a credit card,application,22
+Getting a credit card,fraudulent,21
+Getting a credit card,identity,21
+Getting a credit card,fcra,18
+Getting a credit card,verification,15
+Getting a credit card,act,15
+Getting a credit card,theft,14
+Getting a credit card,denial,13
+Getting a credit card,capital,13
+Getting a credit card,score,13
+Getting a credit card,address,11
+Getting a credit card,u.s.c,11
+Getting a credit card,action,10
+Getting a credit card,right,10
+Getting a credit card,issue,10
+Getting a credit card,clear,10
+Getting a line of credit,federal,5
+Getting a line of credit,reserve,5
+Getting a line of credit,number,3
+Getting a line of credit,information,3
+Getting a line of credit,social,2
+Getting a line of credit,security,2
+Getting a line of credit,decision,2
+Getting a line of credit,corporation,2
+Getting a line of credit,delinquency,2
+Getting a line of credit,underwriter,2
+Getting a line of credit,purpose,2
+Getting a line of credit,profile,1
+Getting a line of credit,denial,1
+Getting a line of credit,reporting,1
+Getting a line of credit,agency,1
+Getting a line of credit,unable,1
+Getting a line of credit,specific,1
+Getting a line of credit,reason,1
+Getting a line of credit,question,1
+Getting a line of credit,key,1
+Getting a loan,masked_text,5
+Getting a loan,program,3
+Getting a loan,launch,2
+Getting a loan,agreement,2
+Getting a loan,document,2
+Getting a loan,signature,2
+Getting a loan,course,1
+Getting a loan,partnership,1
+Getting a loan,college,1
+Getting a loan,official,1
+Getting a loan,offering,1
+Getting a loan,private,1
+Getting a loan,division,1
+Getting a loan,eligible,1
+Getting a loan,job,1
+Getting a loan,certification,1
+Getting a loan,proof,1
+Getting a loan,copy,1
+Getting a loan,response,1
+Getting a loan,payment,1
+Getting a loan or lease,masked_text,49
+Getting a loan or lease,vehicle,29
+Getting a loan or lease,payment,20
+Getting a loan or lease,interest,13
+Getting a loan or lease,financial,11
+Getting a loan or lease,dealership,11
+Getting a loan or lease,finance,10
+Getting a loan or lease,term,10
+Getting a loan or lease,car,10
+Getting a loan or lease,self,10
+Getting a loan or lease,contract,9
+Getting a loan or lease,practice,9
+Getting a loan or lease,marketing,8
+Getting a loan or lease,tesla,8
+Getting a loan or lease,complaint,7
+Getting a loan or lease,transaction,7
+Getting a loan or lease,act,7
+Getting a loan or lease,lending,7
+Getting a loan or lease,disclosure,7
+Getting a loan or lease,financing,7
+Getting the loan,information,13
+Getting the loan,notice,9
+Getting the loan,reason,9
+Getting the loan,masked_text,7
+Getting the loan,personal,7
+Getting the loan,oportun,7
+Getting the loan,specific,7
+Getting the loan,regulation,6
+Getting the loan,adverse,6
+Getting the loan,action,6
+Getting the loan,fund,5
+Getting the loan,adverseaction,5
+Getting the loan,rep,5
+Getting the loan,datum,5
+Getting the loan,fcra,4
+Getting the loan,debit,4
+Getting the loan,lenme,4
+Getting the loan,volume,3
+Getting the loan,phone,3
+Getting the loan,number,3
+Identity theft protection or other monitoring services,identity,4
+Identity theft protection or other monitoring services,theft,4
+Identity theft protection or other monitoring services,transunion,4
+Identity theft protection or other monitoring services,online,4
+Identity theft protection or other monitoring services,victim,3
+Identity theft protection or other monitoring services,freeze,3
+Identity theft protection or other monitoring services,portal,2
+Identity theft protection or other monitoring services,representative,2
+Identity theft protection or other monitoring services,phone,2
+Identity theft protection or other monitoring services,file,2
+Identity theft protection or other monitoring services,law,2
+Identity theft protection or other monitoring services,access,2
+Identity theft protection or other monitoring services,security,1
+Identity theft protection or other monitoring services,place,1
+Identity theft protection or other monitoring services,service,1
+Identity theft protection or other monitoring services,center,1
+Identity theft protection or other monitoring services,way,1
+Identity theft protection or other monitoring services,mailing,1
+Identity theft protection or other monitoring services,request,1
+Identity theft protection or other monitoring services,federal,1
+Improper use of your report,report,3516
+Improper use of your report,information,2849
+Improper use of your report,masked_text,2645
+Improper use of your report,reporting,2488
+Improper use of your report,inquiry,1718
+Improper use of your report,fcra,1513
+Improper use of your report,inaccurate,1416
+Improper use of your report,fair,1306
+Improper use of your report,act,1258
+Improper use of your report,u.s.c,1159
+Improper use of your report,violation,1158
+Improper use of your report,payment,1130
+Improper use of your report,agency,1045
+Improper use of your report,item,1019
+Improper use of your report,date,928
+Improper use of your report,right,898
+Improper use of your report,identity,857
+Improper use of your report,late,836
+Improper use of your report,creditor,830
+Improper use of your report,theft,812
+Incorrect information on your report,masked_text,7978
+Incorrect information on your report,report,6177
+Incorrect information on your report,information,5070
+Incorrect information on your report,reporting,3625
+Incorrect information on your report,identity,2537
+Incorrect information on your report,theft,2355
+Incorrect information on your report,inquiry,2337
+Incorrect information on your report,fcra,2306
+Incorrect information on your report,payment,2257
+Incorrect information on your report,inaccurate,2200
+Incorrect information on your report,date,2147
+Incorrect information on your report,fraudulent,1810
+Incorrect information on your report,balance,1751
+Incorrect information on your report,item,1641
+Incorrect information on your report,fair,1635
+Incorrect information on your report,violation,1608
+Incorrect information on your report,debt,1556
+Incorrect information on your report,collection,1530
+Incorrect information on your report,agency,1453
+Incorrect information on your report,complaint,1425
+Issue where my lender is my school,masked_text,8
+Issue where my lender is my school,transcript,4
+Issue where my lender is my school,office,4
+Issue where my lender is my school,payment,3
+Issue where my lender is my school,class,3
+Issue where my lender is my school,education,2
+Issue where my lender is my school,business,2
+Issue where my lender is my school,collection,2
+Issue where my lender is my school,able,2
+Issue where my lender is my school,family,2
+Issue where my lender is my school,obligation,2
+Issue where my lender is my school,summer,2
+Issue where my lender is my school,week,2
+Issue where my lender is my school,deadline,2
+Issue where my lender is my school,refund,2
+Issue where my lender is my school,school,2
+Issue where my lender is my school,hold,2
+Issue where my lender is my school,order,1
+Issue where my lender is my school,active,1
+Issue where my lender is my school,party,1
+Lost or stolen money order,masked_text,18
+Lost or stolen money order,money,13
+Lost or stolen money order,order,12
+Lost or stolen money order,refund,10
+Lost or stolen money order,form,5
+Lost or stolen money order,request,3
+Lost or stolen money order,location,3
+Lost or stolen money order,cashier,2
+Lost or stolen money order,check,2
+Lost or stolen money order,capital,2
+Lost or stolen money order,number,2
+Lost or stolen money order,application,2
+Lost or stolen money order,online,2
+Lost or stolen money order,system,2
+Lost or stolen money order,mtcns,2
+Lost or stolen money order,disbursement,2
+Lost or stolen money order,information,2
+Lost or stolen money order,police,2
+Lost or stolen money order,dollar,1
+Lost or stolen money order,secured,1
+Managing an account,masked_text,625
+Managing an account,fund,241
+Managing an account,transaction,154
+Managing an account,money,143
+Managing an account,check,138
+Managing an account,deposit,131
+Managing an account,day,120
+Managing an account,chase,103
+Managing an account,issue,97
+Managing an account,access,89
+Managing an account,fraud,89
+Managing an account,payment,87
+Managing an account,information,85
+Managing an account,customer,82
+Managing an account,phone,81
+Managing an account,capital,79
+Managing an account,financial,78
+Managing an account,complaint,77
+Managing an account,service,69
+Managing an account,number,68
+Managing the loan or lease,payment,91
+Managing the loan or lease,masked_text,77
+Managing the loan or lease,vehicle,40
+Managing the loan or lease,interest,37
+Managing the loan or lease,balance,22
+Managing the loan or lease,financial,21
+Managing the loan or lease,contract,17
+Managing the loan or lease,term,16
+Managing the loan or lease,issue,15
+Managing the loan or lease,fee,15
+Managing the loan or lease,ally,15
+Managing the loan or lease,date,15
+Managing the loan or lease,year,12
+Managing the loan or lease,insurance,12
+Managing the loan or lease,car,12
+Managing the loan or lease,principal,12
+Managing the loan or lease,original,12
+Managing the loan or lease,request,11
+Managing the loan or lease,new,11
+Managing the loan or lease,dealership,11
+"Managing, opening, or closing your mobile wallet account",masked_text,22
+"Managing, opening, or closing your mobile wallet account",paypal,16
+"Managing, opening, or closing your mobile wallet account",cash,16
+"Managing, opening, or closing your mobile wallet account",app,16
+"Managing, opening, or closing your mobile wallet account",business,12
+"Managing, opening, or closing your mobile wallet account",money,12
+"Managing, opening, or closing your mobile wallet account",reason,12
+"Managing, opening, or closing your mobile wallet account",customer,10
+"Managing, opening, or closing your mobile wallet account",payment,9
+"Managing, opening, or closing your mobile wallet account",decision,9
+"Managing, opening, or closing your mobile wallet account",appeal,9
+"Managing, opening, or closing your mobile wallet account",service,8
+"Managing, opening, or closing your mobile wallet account",issue,7
+"Managing, opening, or closing your mobile wallet account",review,7
+"Managing, opening, or closing your mobile wallet account",fund,6
+"Managing, opening, or closing your mobile wallet account",dispute,6
+"Managing, opening, or closing your mobile wallet account",support,6
+"Managing, opening, or closing your mobile wallet account",explanation,6
+"Managing, opening, or closing your mobile wallet account",action,6
+"Managing, opening, or closing your mobile wallet account",unable,5
+Money was not available when promised,masked_text,55
+Money was not available when promised,fund,24
+Money was not available when promised,business,18
+Money was not available when promised,paypal,17
+Money was not available when promised,money,15
+Money was not available when promised,transfer,14
+Money was not available when promised,wire,12
+Money was not available when promised,day,10
+Money was not available when promised,support,8
+Money was not available when promised,fargo,8
+Money was not available when promised,access,7
+Money was not available when promised,transaction,7
+Money was not available when promised,wells,7
+Money was not available when promised,information,7
+Money was not available when promised,number,6
+Money was not available when promised,issue,6
+Money was not available when promised,customer,6
+Money was not available when promised,able,6
+Money was not available when promised,week,5
+Money was not available when promised,resolution,4
+Opening an account,masked_text,43
+Opening an account,bonus,24
+Opening an account,apple,21
+Opening an account,day,18
+Opening an account,fargo,16
+Opening an account,new,16
+Opening an account,wells,14
+Opening an account,offer,13
+Opening an account,customer,12
+Opening an account,month,11
+Opening an account,service,11
+Opening an account,chase,11
+Opening an account,notice,10
+Opening an account,opening,10
+Opening an account,number,10
+Opening an account,deposit,10
+Opening an account,branch,10
+Opening an account,information,9
+Opening an account,issue,9
+Opening an account,fraud,9
+"Other features, terms, or problems",masked_text,134
+"Other features, terms, or problems",payment,37
+"Other features, terms, or problems",customer,34
+"Other features, terms, or problems",service,33
+"Other features, terms, or problems",balance,27
+"Other features, terms, or problems",day,26
+"Other features, terms, or problems",issue,26
+"Other features, terms, or problems",citi,24
+"Other features, terms, or problems",money,22
+"Other features, terms, or problems",fee,21
+"Other features, terms, or problems",number,19
+"Other features, terms, or problems",information,19
+"Other features, terms, or problems",year,19
+"Other features, terms, or problems",complaint,17
+"Other features, terms, or problems",address,15
+"Other features, terms, or problems",refund,15
+"Other features, terms, or problems",month,14
+"Other features, terms, or problems",chase,13
+"Other features, terms, or problems",synchrony,12
+"Other features, terms, or problems",transfer,12
+Other service problem,masked_text,26
+Other service problem,financial,23
+Other service problem,act,20
+Other service problem,app,20
+Other service problem,cash,19
+Other service problem,resolution,18
+Other service problem,unfair,15
+Other service problem,protection,11
+Other service problem,fund,11
+Other service problem,vulnerable,10
+Other service problem,platform,10
+Other service problem,dispute,10
+Other service problem,complaint,10
+Other service problem,violation,9
+Other service problem,process,9
+Other service problem,action,9
+Other service problem,significant,9
+Other service problem,requirement,8
+Other service problem,practice,8
+Other service problem,service,8
+Other transaction problem,financial,677
+Other transaction problem,resolution,551
+Other transaction problem,app,551
+Other transaction problem,act,542
+Other transaction problem,unfair,540
+Other transaction problem,cash,538
+Other transaction problem,zelle,492
+Other transaction problem,fund,429
+Other transaction problem,dispute,418
+Other transaction problem,platform,397
+Other transaction problem,vulnerable,384
+Other transaction problem,significant,384
+Other transaction problem,customer,293
+Other transaction problem,transfer,291
+Other transaction problem,fraud,282
+Other transaction problem,action,281
+Other transaction problem,service,280
+Other transaction problem,protection,279
+Other transaction problem,practice,278
+Other transaction problem,error,278
+"Overdraft, savings, or rewards features",masked_text,10
+"Overdraft, savings, or rewards features",overdraft,6
+"Overdraft, savings, or rewards features",month,4
+"Overdraft, savings, or rewards features",deposit,4
+"Overdraft, savings, or rewards features",draft,3
+"Overdraft, savings, or rewards features",dollar,3
+"Overdraft, savings, or rewards features",access,2
+"Overdraft, savings, or rewards features",coverage,2
+"Overdraft, savings, or rewards features",direct,2
+"Overdraft, savings, or rewards features",available,2
+"Overdraft, savings, or rewards features",money,2
+"Overdraft, savings, or rewards features",cash,1
+"Overdraft, savings, or rewards features",app,1
+"Overdraft, savings, or rewards features",job,1
+"Overdraft, savings, or rewards features",outstanding,1
+"Overdraft, savings, or rewards features",balance,1
+"Overdraft, savings, or rewards features",untill,1
+"Overdraft, savings, or rewards features",feature,1
+"Overdraft, savings, or rewards features",person,1
+"Overdraft, savings, or rewards features",reason,1
+Problem adding money,money,3
+Problem adding money,cashapp,3
+Problem adding money,service,2
+Problem adding money,customer,2
+Problem adding money,friend,1
+Problem adding money,good,1
+Problem adding money,transaction,1
+Problem adding money,payment,1
+Problem adding money,today,1
+Problem adding money,protection,1
+Problem adding money,total,1
+Problem adding money,transfer,1
+Problem adding money,issue,1
+Problem adding money,balance,1
+Problem adding money,different,1
+Problem adding money,amount,1
+Problem adding money,manager,1
+Problem adding money,operator,1
+Problem adding money,financial,1
+Problem adding money,people,1
+Problem caused by your funds being low,transaction,185
+Problem caused by your funds being low,fee,162
+Problem caused by your funds being low,fund,128
+Problem caused by your funds being low,navy,122
+Problem caused by your funds being low,federal,122
+Problem caused by your funds being low,practice,116
+Problem caused by your funds being low,overdraft,94
+Problem caused by your funds being low,charge,76
+Problem caused by your funds being low,issue,64
+Problem caused by your funds being low,multiple,63
+Problem caused by your funds being low,balance,63
+Problem caused by your funds being low,available,62
+Problem caused by your funds being low,complaint,60
+Problem caused by your funds being low,insufficient,60
+Problem caused by your funds being low,union,59
+Problem caused by your funds being low,cfpb,58
+Problem caused by your funds being low,finding,58
+Problem caused by your funds being low,similar,58
+Problem caused by your funds being low,sufficient,57
+Problem caused by your funds being low,posting,57
+Problem getting a card or closing an account,masked_text,9
+Problem getting a card or closing an account,blackhawk,4
+Problem getting a card or closing an account,balance,3
+Problem getting a card or closing an account,wage,3
+Problem getting a card or closing an account,access,3
+Problem getting a card or closing an account,replacement,3
+Problem getting a card or closing an account,debit,2
+Problem getting a card or closing an account,new,2
+Problem getting a card or closing an account,service,2
+Problem getting a card or closing an account,day,2
+Problem getting a card or closing an account,business,2
+Problem getting a card or closing an account,cfpb,2
+Problem getting a card or closing an account,complaint,2
+Problem getting a card or closing an account,refund,2
+Problem getting a card or closing an account,year,2
+Problem getting a card or closing an account,delay,2
+Problem getting a card or closing an account,check,2
+Problem getting a card or closing an account,address,2
+Problem getting a card or closing an account,writing,2
+Problem getting a card or closing an account,transfer,2
+Problem when making payments,payment,108
+Problem when making payments,masked_text,102
+Problem when making payments,balance,19
+Problem when making payments,fund,17
+Problem when making payments,number,16
+Problem when making payments,fee,15
+Problem when making payments,citibank,13
+Problem when making payments,late,13
+Problem when making payments,affirm,13
+Problem when making payments,dispute,13
+Problem when making payments,customer,11
+Problem when making payments,day,11
+Problem when making payments,investigation,11
+Problem when making payments,issue,11
+Problem when making payments,transaction,10
+Problem when making payments,information,10
+Problem when making payments,service,10
+Problem when making payments,synchrony,10
+Problem when making payments,date,10
+Problem when making payments,interest,10
+Problem with a company's investigation into an existing issue,masked_text,17
+Problem with a company's investigation into an existing issue,report,12
+Problem with a company's investigation into an existing issue,debt,10
+Problem with a company's investigation into an existing issue,information,9
+Problem with a company's investigation into an existing issue,reporting,8
+Problem with a company's investigation into an existing issue,inaccurate,6
+Problem with a company's investigation into an existing issue,fair,6
+Problem with a company's investigation into an existing issue,collection,5
+Problem with a company's investigation into an existing issue,document,5
+Problem with a company's investigation into an existing issue,issue,4
+Problem with a company's investigation into an existing issue,act,4
+Problem with a company's investigation into an existing issue,transunion,4
+Problem with a company's investigation into an existing issue,address,4
+Problem with a company's investigation into an existing issue,u.s.c,4
+Problem with a company's investigation into an existing issue,accuracy,4
+Problem with a company's investigation into an existing issue,dispute,3
+Problem with a company's investigation into an existing issue,fcra,3
+Problem with a company's investigation into an existing issue,practice,3
+Problem with a company's investigation into an existing issue,fdcpa,3
+Problem with a company's investigation into an existing issue,wallet,3
+Problem with a company's investigation into an existing problem,masked_text,2252
+Problem with a company's investigation into an existing problem,information,2140
+Problem with a company's investigation into an existing problem,report,2005
+Problem with a company's investigation into an existing problem,reporting,1705
+Problem with a company's investigation into an existing problem,fcra,1063
+Problem with a company's investigation into an existing problem,payment,1038
+Problem with a company's investigation into an existing problem,dispute,959
+Problem with a company's investigation into an existing problem,u.s.c,938
+Problem with a company's investigation into an existing problem,inaccurate,926
+Problem with a company's investigation into an existing problem,fair,865
+Problem with a company's investigation into an existing problem,act,854
+Problem with a company's investigation into an existing problem,experian,762
+Problem with a company's investigation into an existing problem,item,748
+Problem with a company's investigation into an existing problem,section,680
+Problem with a company's investigation into an existing problem,agency,662
+Problem with a company's investigation into an existing problem,right,649
+Problem with a company's investigation into an existing problem,action,641
+Problem with a company's investigation into an existing problem,law,556
+Problem with a company's investigation into an existing problem,investigation,541
+Problem with a company's investigation into an existing problem,day,516
+Problem with a lender or other company charging your account,masked_text,233
+Problem with a lender or other company charging your account,transaction,90
+Problem with a lender or other company charging your account,charge,70
+Problem with a lender or other company charging your account,chase,64
+Problem with a lender or other company charging your account,claim,63
+Problem with a lender or other company charging your account,unauthorized,41
+Problem with a lender or other company charging your account,money,37
+Problem with a lender or other company charging your account,fraud,36
+Problem with a lender or other company charging your account,chime,34
+Problem with a lender or other company charging your account,business,32
+Problem with a lender or other company charging your account,dispute,31
+Problem with a lender or other company charging your account,day,29
+Problem with a lender or other company charging your account,merchant,28
+Problem with a lender or other company charging your account,fund,27
+Problem with a lender or other company charging your account,phone,27
+Problem with a lender or other company charging your account,payment,24
+Problem with a lender or other company charging your account,investigation,24
+Problem with a lender or other company charging your account,fargo,24
+Problem with a lender or other company charging your account,debit,24
+Problem with a lender or other company charging your account,refund,23
+Problem with a purchase or transfer,masked_text,14
+Problem with a purchase or transfer,charge,7
+Problem with a purchase or transfer,dispute,6
+Problem with a purchase or transfer,fund,5
+Problem with a purchase or transfer,self,5
+Problem with a purchase or transfer,app,4
+Problem with a purchase or transfer,case,4
+Problem with a purchase or transfer,money,3
+Problem with a purchase or transfer,merchant,3
+Problem with a purchase or transfer,late,3
+Problem with a purchase or transfer,fee,3
+Problem with a purchase or transfer,proof,2
+Problem with a purchase or transfer,purchase,2
+Problem with a purchase or transfer,transaction,2
+Problem with a purchase or transfer,service,2
+Problem with a purchase or transfer,misuse,2
+Problem with a purchase or transfer,non,2
+Problem with a purchase or transfer,receipt,2
+Problem with a purchase or transfer,situation,2
+Problem with a purchase or transfer,fraud,2
+Problem with a purchase shown on your statement,masked_text,368
+Problem with a purchase shown on your statement,charge,164
+Problem with a purchase shown on your statement,dispute,138
+Problem with a purchase shown on your statement,service,76
+Problem with a purchase shown on your statement,merchant,67
+Problem with a purchase shown on your statement,fraud,54
+Problem with a purchase shown on your statement,payment,40
+Problem with a purchase shown on your statement,customer,40
+Problem with a purchase shown on your statement,information,39
+Problem with a purchase shown on your statement,transaction,38
+Problem with a purchase shown on your statement,investigation,36
+Problem with a purchase shown on your statement,day,36
+Problem with a purchase shown on your statement,phone,36
+Problem with a purchase shown on your statement,item,35
+Problem with a purchase shown on your statement,claim,33
+Problem with a purchase shown on your statement,complaint,32
+Problem with a purchase shown on your statement,fraudulent,32
+Problem with a purchase shown on your statement,refund,31
+Problem with a purchase shown on your statement,money,30
+Problem with a purchase shown on your statement,evidence,29
+Problem with additional add-on products or services,masked_text,25
+Problem with additional add-on products or services,ticket,8
+Problem with additional add-on products or services,complaint,6
+Problem with additional add-on products or services,way,6
+Problem with additional add-on products or services,issue,5
+Problem with additional add-on products or services,refund,5
+Problem with additional add-on products or services,son,5
+Problem with additional add-on products or services,contract,5
+Problem with additional add-on products or services,program,5
+Problem with additional add-on products or services,koalafi,4
+Problem with additional add-on products or services,repair,4
+Problem with additional add-on products or services,vehicle,4
+Problem with additional add-on products or services,multiple,4
+Problem with additional add-on products or services,concert,4
+Problem with additional add-on products or services,month,4
+Problem with additional add-on products or services,lendmark,4
+Problem with additional add-on products or services,industry,4
+Problem with additional add-on products or services,option,3
+Problem with additional add-on products or services,original,3
+Problem with additional add-on products or services,good,3
+Problem with customer service,masked_text,10
+Problem with customer service,service,9
+Problem with customer service,capital,9
+Problem with customer service,check,8
+Problem with customer service,money,8
+Problem with customer service,customer,7
+Problem with customer service,complaint,6
+Problem with customer service,fund,6
+Problem with customer service,order,6
+Problem with customer service,matter,5
+Problem with customer service,paypal,4
+Problem with customer service,bill,4
+Problem with customer service,issue,4
+Problem with customer service,balance,4
+Problem with customer service,payment,4
+Problem with customer service,management,3
+Problem with customer service,information,3
+Problem with customer service,response,3
+Problem with customer service,cfpb,3
+Problem with customer service,day,3
+Problem with fraud alerts or security freezes,masked_text,101
+Problem with fraud alerts or security freezes,security,66
+Problem with fraud alerts or security freezes,freeze,54
+Problem with fraud alerts or security freezes,report,39
+Problem with fraud alerts or security freezes,information,34
+Problem with fraud alerts or security freezes,request,33
+Problem with fraud alerts or security freezes,reporting,22
+Problem with fraud alerts or security freezes,file,19
+Problem with fraud alerts or security freezes,copy,18
+Problem with fraud alerts or security freezes,social,17
+Problem with fraud alerts or security freezes,number,17
+Problem with fraud alerts or security freezes,payment,17
+Problem with fraud alerts or security freezes,act,16
+Problem with fraud alerts or security freezes,affidavit,16
+Problem with fraud alerts or security freezes,fair,15
+Problem with fraud alerts or security freezes,fcra,15
+Problem with fraud alerts or security freezes,fraudulent,15
+Problem with fraud alerts or security freezes,right,14
+Problem with fraud alerts or security freezes,identity,13
+Problem with fraud alerts or security freezes,address,12
+Problem with the payoff process at the end of the loan,masked_text,11
+Problem with the payoff process at the end of the loan,payment,6
+Problem with the payoff process at the end of the loan,customer,3
+Problem with the payoff process at the end of the loan,service,3
+Problem with the payoff process at the end of the loan,balance,2
+Problem with the payoff process at the end of the loan,option,2
+Problem with the payoff process at the end of the loan,number,2
+Problem with the payoff process at the end of the loan,report,2
+Problem with the payoff process at the end of the loan,bread,2
+Problem with the payoff process at the end of the loan,agent,2
+Problem with the payoff process at the end of the loan,lending,2
+Problem with the payoff process at the end of the loan,affirm,1
+Problem with the payoff process at the end of the loan,purchase,1
+Problem with the payoff process at the end of the loan,monthly,1
+Problem with the payoff process at the end of the loan,installment,1
+Problem with the payoff process at the end of the loan,pay,1
+Problem with the payoff process at the end of the loan,confirmation,1
+Problem with the payoff process at the end of the loan,month,1
+Problem with the payoff process at the end of the loan,subject,1
+Problem with the payoff process at the end of the loan,dispute,1
+Problems at the end of the loan or lease,masked_text,49
+Problems at the end of the loan or lease,title,21
+Problems at the end of the loan or lease,lien,18
+Problems at the end of the loan or lease,finance,17
+Problems at the end of the loan or lease,debt,15
+Problems at the end of the loan or lease,car,12
+Problems at the end of the loan or lease,vehicle,9
+Problems at the end of the loan or lease,payment,9
+Problems at the end of the loan or lease,wells,9
+Problems at the end of the loan or lease,fargo,9
+Problems at the end of the loan or lease,release,8
+Problems at the end of the loan or lease,capital,7
+Problems at the end of the loan or lease,day,7
+Problems at the end of the loan or lease,spring,7
+Problems at the end of the loan or lease,irs,7
+Problems at the end of the loan or lease,auto,6
+Problems at the end of the loan or lease,business,6
+Problems at the end of the loan or lease,kia,6
+Problems at the end of the loan or lease,form,6
+Problems at the end of the loan or lease,new,5
+Problems receiving the advance,masked_text,3
+Problems receiving the advance,check,3
+Problems receiving the advance,information,2
+Problems receiving the advance,beginning,1
+Problems receiving the advance,oportun,1
+Problems receiving the advance,store,1
+Problems receiving the advance,day,1
+Problems receiving the advance,secure,1
+Problems receiving the advance,complaint,1
+Problems receiving the advance,specialist,1
+Problems receiving the advance,thing,1
+Problems receiving the advance,case,1
+Problems receiving the advance,number,1
+Problems receiving the advance,today,1
+Problems receiving the advance,year,1
+Repossession,masked_text,71
+Repossession,vehicle,50
+Repossession,repossession,20
+Repossession,payment,20
+Repossession,report,17
+Repossession,financial,17
+Repossession,car,16
+Repossession,debt,10
+Repossession,law,9
+Repossession,lender,9
+Repossession,information,8
+Repossession,matter,8
+Repossession,reporting,7
+Repossession,damage,7
+Repossession,collection,7
+Repossession,documentation,7
+Repossession,breach,7
+Repossession,issue,7
+Repossession,right,7
+Repossession,status,7
+Struggling to pay mortgage,masked_text,95
+Struggling to pay mortgage,payment,47
+Struggling to pay mortgage,mortgage,41
+Struggling to pay mortgage,month,21
+Struggling to pay mortgage,foreclosure,20
+Struggling to pay mortgage,home,18
+Struggling to pay mortgage,phh,18
+Struggling to pay mortgage,modification,17
+Struggling to pay mortgage,property,14
+Struggling to pay mortgage,assistance,13
+Struggling to pay mortgage,document,12
+Struggling to pay mortgage,section,12
+Struggling to pay mortgage,fraud,12
+Struggling to pay mortgage,date,12
+Struggling to pay mortgage,process,11
+Struggling to pay mortgage,service,11
+Struggling to pay mortgage,outgoing,11
+Struggling to pay mortgage,wells,10
+Struggling to pay mortgage,fargo,10
+Struggling to pay mortgage,application,10
+Struggling to pay your bill,payment,14
+Struggling to pay your bill,capital,6
+Struggling to pay your bill,hardship,6
+Struggling to pay your bill,federal,6
+Struggling to pay your bill,representative,6
+Struggling to pay your bill,complaint,5
+Struggling to pay your bill,masked_text,5
+Struggling to pay your bill,government,5
+Struggling to pay your bill,shutdown,5
+Struggling to pay your bill,debt,4
+Struggling to pay your bill,bankruptcy,4
+Struggling to pay your bill,legal,4
+Struggling to pay your bill,financial,4
+Struggling to pay your bill,assistance,4
+Struggling to pay your bill,situation,4
+Struggling to pay your bill,monthly,4
+Struggling to pay your bill,navy,4
+Struggling to pay your bill,information,3
+Struggling to pay your bill,action,3
+Struggling to pay your bill,service,3
+Struggling to pay your loan,payment,41
+Struggling to pay your loan,masked_text,35
+Struggling to pay your loan,interest,17
+Struggling to pay your loan,financial,14
+Struggling to pay your loan,option,11
+Struggling to pay your loan,settlement,11
+Struggling to pay your loan,hardship,10
+Struggling to pay your loan,bmo,10
+Struggling to pay your loan,balance,9
+Struggling to pay your loan,complaint,8
+Struggling to pay your loan,term,8
+Struggling to pay your loan,monthly,8
+Struggling to pay your loan,acceptance,7
+Struggling to pay your loan,practice,7
+Struggling to pay your loan,principal,6
+Struggling to pay your loan,plan,6
+Struggling to pay your loan,current,6
+Struggling to pay your loan,day,6
+Struggling to pay your loan,year,6
+Struggling to pay your loan,impossible,6
+Struggling to repay your loan,student,32
+Struggling to repay your loan,masked_text,31
+Struggling to repay your loan,borrower,23
+Struggling to repay your loan,financial,18
+Struggling to repay your loan,payment,17
+Struggling to repay your loan,right,13
+Struggling to repay your loan,information,12
+Struggling to repay your loan,datum,12
+Struggling to repay your loan,federal,11
+Struggling to repay your loan,action,9
+Struggling to repay your loan,act,9
+Struggling to repay your loan,case,8
+Struggling to repay your loan,education,8
+Struggling to repay your loan,personal,8
+Struggling to repay your loan,breach,8
+Struggling to repay your loan,u.s.c,8
+Struggling to repay your loan,department,7
+Struggling to repay your loan,institution,7
+Struggling to repay your loan,ferpa,7
+Struggling to repay your loan,unauthorized,7
+Threatened to contact someone or share information improperly,masked_text,17
+Threatened to contact someone or share information improperly,debt,10
+Threatened to contact someone or share information improperly,personal,9
+Threatened to contact someone or share information improperly,number,7
+Threatened to contact someone or share information improperly,information,7
+Threatened to contact someone or share information improperly,phone,5
+Threatened to contact someone or share information improperly,birthdate,5
+Threatened to contact someone or share information improperly,collection,4
+Threatened to contact someone or share information improperly,right,4
+Threatened to contact someone or share information improperly,permission,3
+Threatened to contact someone or share information improperly,violation,3
+Threatened to contact someone or share information improperly,citibank,3
+Threatened to contact someone or share information improperly,validation,3
+Threatened to contact someone or share information improperly,date,3
+Threatened to contact someone or share information improperly,dispute,3
+Threatened to contact someone or share information improperly,fdcpa,3
+Threatened to contact someone or share information improperly,action,3
+Threatened to contact someone or share information improperly,breach,2
+Threatened to contact someone or share information improperly,financial,2
+Threatened to contact someone or share information improperly,act,2
+Took or threatened to take negative or legal action,masked_text,134
+Took or threatened to take negative or legal action,debt,114
+Took or threatened to take negative or legal action,collection,52
+Took or threatened to take negative or legal action,information,43
+Took or threatened to take negative or legal action,report,39
+Took or threatened to take negative or legal action,payment,31
+Took or threatened to take negative or legal action,law,24
+Took or threatened to take negative or legal action,validation,23
+Took or threatened to take negative or legal action,court,18
+Took or threatened to take negative or legal action,right,18
+Took or threatened to take negative or legal action,original,16
+Took or threatened to take negative or legal action,legal,16
+Took or threatened to take negative or legal action,year,16
+Took or threatened to take negative or legal action,service,16
+Took or threatened to take negative or legal action,reporting,15
+Took or threatened to take negative or legal action,month,14
+Took or threatened to take negative or legal action,agency,14
+Took or threatened to take negative or legal action,notice,13
+Took or threatened to take negative or legal action,agreement,13
+Took or threatened to take negative or legal action,u.s.c,13
+Trouble accessing funds in your mobile or digital wallet,fund,50
+Trouble accessing funds in your mobile or digital wallet,masked_text,48
+Trouble accessing funds in your mobile or digital wallet,paypal,44
+Trouble accessing funds in your mobile or digital wallet,money,28
+Trouble accessing funds in your mobile or digital wallet,day,24
+Trouble accessing funds in your mobile or digital wallet,transaction,20
+Trouble accessing funds in your mobile or digital wallet,app,14
+Trouble accessing funds in your mobile or digital wallet,explanation,14
+Trouble accessing funds in your mobile or digital wallet,support,14
+Trouble accessing funds in your mobile or digital wallet,business,14
+Trouble accessing funds in your mobile or digital wallet,customer,11
+Trouble accessing funds in your mobile or digital wallet,reason,10
+Trouble accessing funds in your mobile or digital wallet,direct,10
+Trouble accessing funds in your mobile or digital wallet,cash,10
+Trouble accessing funds in your mobile or digital wallet,multiple,9
+Trouble accessing funds in your mobile or digital wallet,unable,9
+Trouble accessing funds in your mobile or digital wallet,number,9
+Trouble accessing funds in your mobile or digital wallet,access,9
+Trouble accessing funds in your mobile or digital wallet,sender,9
+Trouble accessing funds in your mobile or digital wallet,dispute,8
+Trouble during payment process,masked_text,226
+Trouble during payment process,payment,150
+Trouble during payment process,mortgage,120
+Trouble during payment process,insurance,97
+Trouble during payment process,escrow,82
+Trouble during payment process,check,34
+Trouble during payment process,tax,34
+Trouble during payment process,fee,34
+Trouble during payment process,month,32
+Trouble during payment process,money,32
+Trouble during payment process,taxis,31
+Trouble during payment process,year,31
+Trouble during payment process,day,30
+Trouble during payment process,home,28
+Trouble during payment process,property,28
+Trouble during payment process,fund,24
+Trouble during payment process,information,21
+Trouble during payment process,error,20
+Trouble during payment process,statement,20
+Trouble during payment process,late,19
+Trouble using the card,masked_text,51
+Trouble using the card,gift,20
+Trouble using the card,fund,17
+Trouble using the card,store,16
+Trouble using the card,refund,11
+Trouble using the card,american,9
+Trouble using the card,customer,8
+Trouble using the card,representative,8
+Trouble using the card,issue,7
+Trouble using the card,service,7
+Trouble using the card,number,7
+Trouble using the card,complaint,7
+Trouble using the card,transaction,6
+Trouble using the card,purchase,6
+Trouble using the card,retailer,6
+Trouble using the card,access,6
+Trouble using the card,multiple,6
+Trouble using the card,amex,6
+Trouble using the card,money,6
+Trouble using the card,balance,6
+Trouble using your card,masked_text,38
+Trouble using your card,payment,22
+Trouble using your card,citi,14
+Trouble using your card,limit,13
+Trouble using your card,day,10
+Trouble using your card,balance,10
+Trouble using your card,financial,9
+Trouble using your card,fee,8
+Trouble using your card,verification,8
+Trouble using your card,charge,7
+Trouble using your card,complaint,7
+Trouble using your card,multiple,7
+Trouble using your card,prosper,7
+Trouble using your card,replacement,7
+Trouble using your card,action,6
+Trouble using your card,year,6
+Trouble using your card,date,6
+Trouble using your card,amex,6
+Trouble using your card,hardship,6
+Trouble using your card,refund,6
+Unable to get your credit report or credit score,masked_text,49
+Unable to get your credit report or credit score,report,30
+Unable to get your credit report or credit score,file,26
+Unable to get your credit report or credit score,information,26
+Unable to get your credit report or credit score,equifax,23
+Unable to get your credit report or credit score,service,22
+Unable to get your credit report or credit score,identity,20
+Unable to get your credit report or credit score,issue,14
+Unable to get your credit report or credit score,score,14
+Unable to get your credit report or credit score,bureau,12
+Unable to get your credit report or credit score,experian,12
+Unable to get your credit report or credit score,access,11
+Unable to get your credit report or credit score,matter,11
+Unable to get your credit report or credit score,customer,11
+Unable to get your credit report or credit score,profile,10
+Unable to get your credit report or credit score,day,10
+Unable to get your credit report or credit score,financial,10
+Unable to get your credit report or credit score,reporting,10
+Unable to get your credit report or credit score,request,10
+Unable to get your credit report or credit score,document,10
+Unauthorized transactions or other transaction problem,masked_text,82
+Unauthorized transactions or other transaction problem,paypal,38
+Unauthorized transactions or other transaction problem,transaction,34
+Unauthorized transactions or other transaction problem,money,28
+Unauthorized transactions or other transaction problem,cash,23
+Unauthorized transactions or other transaction problem,app,21
+Unauthorized transactions or other transaction problem,payment,18
+Unauthorized transactions or other transaction problem,dispute,18
+Unauthorized transactions or other transaction problem,refund,15
+Unauthorized transactions or other transaction problem,fund,13
+Unauthorized transactions or other transaction problem,fraud,12
+Unauthorized transactions or other transaction problem,claim,10
+Unauthorized transactions or other transaction problem,message,9
+Unauthorized transactions or other transaction problem,issue,9
+Unauthorized transactions or other transaction problem,charge,8
+Unauthorized transactions or other transaction problem,purchase,8
+Unauthorized transactions or other transaction problem,person,7
+Unauthorized transactions or other transaction problem,sender,7
+Unauthorized transactions or other transaction problem,number,7
+Unauthorized transactions or other transaction problem,report,6
+Unauthorized withdrawals or charges,debt,5
+Unauthorized withdrawals or charges,inaccurate,4
+Unauthorized withdrawals or charges,information,4
+Unauthorized withdrawals or charges,report,4
+Unauthorized withdrawals or charges,documentation,4
+Unauthorized withdrawals or charges,fair,3
+Unauthorized withdrawals or charges,investigation,3
+Unauthorized withdrawals or charges,dispute,3
+Unauthorized withdrawals or charges,day,3
+Unauthorized withdrawals or charges,unverified,3
+Unauthorized withdrawals or charges,masked_text,3
+Unauthorized withdrawals or charges,interest,3
+Unauthorized withdrawals or charges,concern,2
+Unauthorized withdrawals or charges,experian,2
+Unauthorized withdrawals or charges,matter,2
+Unauthorized withdrawals or charges,failure,2
+Unauthorized withdrawals or charges,reporting,2
+Unauthorized withdrawals or charges,act,2
+Unauthorized withdrawals or charges,fcra,2
+Unauthorized withdrawals or charges,law,2
+Unexpected or other fees,masked_text,12
+Unexpected or other fees,money,11
+Unexpected or other fees,transaction,5
+Unexpected or other fees,report,5
+Unexpected or other fees,paypal,4
+Unexpected or other fees,customer,4
+Unexpected or other fees,balance,4
+Unexpected or other fees,payment,4
+Unexpected or other fees,different,4
+Unexpected or other fees,prepaid,3
+Unexpected or other fees,debit,3
+Unexpected or other fees,car,3
+Unexpected or other fees,unauthorized,3
+Unexpected or other fees,promotional,3
+Unexpected or other fees,period,3
+Unexpected or other fees,contact,3
+Unexpected or other fees,support,2
+Unexpected or other fees,discrepancy,2
+Unexpected or other fees,unable,2
+Unexpected or other fees,reason,2
+"Was approved for a loan, but didn't receive the money",masked_text,8
+"Was approved for a loan, but didn't receive the money",document,3
+"Was approved for a loan, but didn't receive the money",documentation,3
+"Was approved for a loan, but didn't receive the money",step,2
+"Was approved for a loan, but didn't receive the money",shady,2
+"Was approved for a loan, but didn't receive the money",fund,2
+"Was approved for a loan, but didn't receive the money",eligibility,2
+"Was approved for a loan, but didn't receive the money",thing,2
+"Was approved for a loan, but didn't receive the money",myfullwallet,2
+"Was approved for a loan, but didn't receive the money",site,2
+"Was approved for a loan, but didn't receive the money",payday,1
+"Was approved for a loan, but didn't receive the money",yesterday,1
+"Was approved for a loan, but didn't receive the money",mistake,1
+"Was approved for a loan, but didn't receive the money",line,1
+"Was approved for a loan, but didn't receive the money",text,1
+"Was approved for a loan, but didn't receive the money",workplace,1
+"Was approved for a loan, but didn't receive the money",website,1
+"Was approved for a loan, but didn't receive the money",wrong,1
+"Was approved for a loan, but didn't receive the money",unprofessional,1
+"Was approved for a loan, but didn't receive the money",weird,1
+Written notification about debt,report,299
+Written notification about debt,masked_text,226
+Written notification about debt,debt,213
+Written notification about debt,collection,190
+Written notification about debt,information,164
+Written notification about debt,accurate,133
+Written notification about debt,usc,116
+Written notification about debt,right,86
+Written notification about debt,entry,86
+Written notification about debt,inaccurate,84
+Written notification about debt,fcra,72
+Written notification about debt,review,60
+Written notification about debt,pursuant,58
+Written notification about debt,1681e,58
+Written notification about debt,validation,51
+Written notification about debt,reporting,47
+Written notification about debt,fair,46
+Written notification about debt,request,41
+Written notification about debt,violation,39
+Written notification about debt,document,38
+Wrong amount charged or received,masked_text,28
+Wrong amount charged or received,fund,10
+Wrong amount charged or received,agent,7
+Wrong amount charged or received,moneygram,5
+Wrong amount charged or received,location,5
+Wrong amount charged or received,usd,5
+Wrong amount charged or received,america,5
+Wrong amount charged or received,commission,4
+Wrong amount charged or received,transfer,4
+Wrong amount charged or received,transaction,4
+Wrong amount charged or received,customer,3
+Wrong amount charged or received,action,3
+Wrong amount charged or received,venmo,3
+Wrong amount charged or received,number,3
+Wrong amount charged or received,policy,3
+Wrong amount charged or received,service,2
+Wrong amount charged or received,compensation,2
+Wrong amount charged or received,base,2
+Wrong amount charged or received,salary,2
+Wrong amount charged or received,performance,2
