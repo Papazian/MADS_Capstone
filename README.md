@@ -15,11 +15,15 @@ Please click on Streamlit web app below to predict the likelihood of a respectfu
 
 [Streamlit web app](https://mads-capstone-consumer-financial-complaint.streamlit.app/)
 
+Note that our Streamlit web app is running our `predict_using_streamlit.py` Python script saved in our GitHub repo.
+
 ---
 
 **Data used in our Capstone Project:**
 
-Below is our function to obtain the CFPB complaints data, which was downloaded from the CFPB website and saved in our AWS S3 bucket on June 16, 2026:
+All data used for our project is publicly available on the CFPB website with no restrictions.
+
+Below is our custom built function to obtain the CFPB complaints data, which was downloaded from the CFPB website and saved in our AWS S3 bucket on June 16, 2026:
 
 `from Supervised_Learning.data_utils import obtain_CFPB_complaints_data`
 
