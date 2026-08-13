@@ -7,8 +7,6 @@
 - Zhou "Jo" Jiang
 - John Papazian
 
----
-
 ## Project Structure
 
 This repository contains four analysis components:
@@ -19,8 +17,6 @@ This repository contains four analysis components:
 - `Unsupervised_Learning/` – Unsupervised learning analysis
 
 Each folder contains the code used to generate the corresponding analysis, results, and figures presented in the final report.
-
----
 
 ## Running the Project
 
@@ -49,16 +45,7 @@ This will open Jupyter in your web browser.
 
 4. Run the analyses.
 
-Each analysis is organized in its own folder:
-
-- `Geospatial_and_Time_Series_Analysis/`
-- `Natural_Language_Processing/`
-- `Supervised_Learning/`
-- `Unsupervised_Learning/`
-
 Open the corresponding `.ipynb` notebook in Jupyter and select **Run All** to execute the notebook and reproduce the analysis, results, and figures.
-
----
 
 ## Predictive Model Implementation
 
@@ -73,8 +60,6 @@ To run the application locally, use:
 ```bash
 streamlit run predict_using_streamlit.py
 ```
-
----
 
 ## Data Used in Our Capstone Project
 
@@ -108,8 +93,6 @@ df = obtain_CFPB_complaints_data(
     sample_fraction=0.25
 )
 ```
-
----
 
 ## Original Source of CFPB Data
 
