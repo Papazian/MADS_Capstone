@@ -47,6 +47,8 @@ This will open Jupyter in your web browser.
 
 Open the corresponding `.ipynb` notebook in Jupyter and select **Run All** to execute the notebook and reproduce the analysis, results, and figures.
 
+The unsupervised topic modeling analysis uses the df_filtered dataset created by the NLP analysis notebook. Therefore, run the NLP notebook first to generate the filtered dataset before running the unsupervised learning notebook.
+
 ## Predictive Model Implementation
 
 In addition to the analysis notebooks, we also created a Streamlit web application based on our supervised learning models.
